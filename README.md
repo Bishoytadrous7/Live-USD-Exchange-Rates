@@ -11,8 +11,7 @@
 ## 🎥 Demo
 
 ![Demo](src/assets/CurrencyDashboard.gif)
-
-🔗 [View Demo on Imgur](https://imgur.com/a/DFkPUF8)
+🔗 [View Full GIF](https://imgur.com/a/DFkPUF8)
 
 ---
 
