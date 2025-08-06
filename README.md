@@ -1,69 +1,61 @@
-# Web Development Project 5 - *Live USD Exchange Rates*
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![CurrencyLayer](https://img.shields.io/badge/API-CurrencyLayer-009688?logo=data&logoColor=white)
 
-Submitted by: **Bishoy Tadrous**
+# 💱 Live USD Exchange Rates – Currency Dashboard Web App
 
-This web app: **displays real-time exchange rates for global currencies based on the USD using the CurrencyLayer API. It allows users to search, filter, and analyze currency data.**
+**Live USD Exchange Rates** is a real-time currency dashboard that displays 100+ global exchange rates using the [CurrencyLayer API](https://currencylayer.com/). Users can search and filter currencies, view summary statistics, and explore dynamic bar and pie charts.
 
-Time spent: **8** hours spent in total
+---
 
-## Required Features
+## 🎥 Demo
 
-The following **required** functionality is completed:
+![Demo](src/assets/CurrencyDashboard.gif)
 
-- [x] **The site has a dashboard displaying a list of data fetched using an API call**
-  - The dashboard should display at least 10 unique items, one per row
-  - The dashboard includes at least two features in each row
-- [x] **`useEffect` React hook and `async`/`await` are used**
-- [x] **The app dashboard includes at least three summary statistics about the data** 
-  - The app dashboard includes at least three summary statistics about the data, such as:
-    - *insert details here*
-- [x] **A search bar allows the user to search for an item in the fetched data**
-  - The search bar **correctly** filters items in the list, only displaying items matching the search query
-  - The list of results dynamically updates as the user types into the search bar
-- [x] **An additional filter allows the user to restrict displayed items by specified categories**
-  - The filter restricts items in the list using a **different attribute** than the search bar 
-  - The filter **correctly** filters items in the list, only displaying items matching the filter attribute in the dashboard
-  - The dashboard list dynamically updates as the user adjusts the filter
+🔗 [View Demo on Imgur](https://imgur.com/a/DFkPUF8)
 
-The following **optional** features are implemented:
+---
 
-- [x] Multiple filters can be applied simultaneously
-- [x] Filters use different input types
-  - e.g., as a text input, a dropdown or radio selection, and/or a slider
-- [x] The user can enter specific bounds for filter values
+## 🚀 Features
 
-The following **additional** features are implemented:
+- ✅ **Live Exchange Rate Dashboard**
+  - Displays 100+ global currencies with real-time USD rates
+  - 
+- ✅ **Summary Statistics**
+  - Shows total number of currencies
+  - Displays the highest and average exchange rates
+  - Stats update dynamically from the live API data
 
-## Video Walkthrough
+- ✅ **Search & Filtering**
+  - Live search bar filters currencies by name or code
+  - Additional filters include:
+    - Dropdown to filter by rate category (High, Medium, Low)
+    - Range slider for custom min/max exchange rate bounds
 
-Here's a walkthrough of implemented user stories:
+- ✅ **Interactive Charts**
+  - **Bar chart** displaying the Top 10 Highest Exchange Rates
+  - **Pie chart** showing rate category distribution (High / Medium / Low)
+  - Toggle to show/hide charts for a cleaner interface
 
-<img src='https://i.imgur.com/bhqd5fx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://imgur.com/a/DFkPUF8
+---
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+## 🛠️ Built With
 
-## Notes
 
-Describe any challenges encountered while building the app.
+- **React** 
+- **JavaScript**
+- **HTML & CSS**
+- **CurrencyLayer API**
 
-## License
+---
 
-    Copyright [yyyy] [name of copyright owner]
+## 🙋‍♂️ About Me
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+I'm a Computer Science student passionate about web development, soccer, and creating engaging web apps.
 
-        http://www.apache.org/licenses/LICENSE-2.0
+Check out more of my work: [https://github.com/Bishoytadrous7](https://github.com/Bishoytadrous7)
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+---
+
+## 📄 License
+
