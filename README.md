@@ -20,7 +20,7 @@
 
 - ✅ **Live Exchange Rate Dashboard**
   - Displays 100+ global currencies with real-time USD rates
-  - 
+
 - ✅ **Summary Statistics**
   - Shows total number of currencies
   - Displays the highest and average exchange rates
