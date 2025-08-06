@@ -2,7 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&logoColor=black)
 ![CurrencyLayer](https://img.shields.io/badge/API-CurrencyLayer-009688?logo=data&logoColor=white)
 
-# 💱 Live USD Exchange Rates – Currency Dashboard Web App
+# 💱 Live USD Exchange Rates – Currency Dashboard
 
 **Live USD Exchange Rates** is a real-time currency dashboard that displays 100+ global exchange rates using the [CurrencyLayer API](https://currencylayer.com/). Users can search and filter currencies, view summary statistics, and explore dynamic bar and pie charts.
 
