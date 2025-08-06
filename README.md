@@ -56,5 +56,5 @@ Check out more of my work: [https://github.com/Bishoytadrous7](https://github.co
 
 ---
 
-## 📄 License
+
 
